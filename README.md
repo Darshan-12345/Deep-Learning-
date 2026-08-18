@@ -1,11 +1,25 @@
 # Deep Learning
 
-This repository contains my Deep Learning assignments and practical implementations.
+This repository contains my **Deep Learning assignments and projects**.
 
-## Assignment 01
-### Fashion-MNIST Classification using Artificial Neural Network (ANN)
+## 📂 Contents
 
-- Dataset: Fashion-MNIST
-- Task: Image Classification
-- Number of Classes: 10
-- Model: Artificial Neural Network (ANN)
+* 📝 **Assignments** – Deep Learning practicals and experiments
+* 🚀 **Projects** – Deep Learning based projects and implementations
+
+## 🧠 Topics
+
+* ANN / MLP
+* CNN
+* RNN / LSTM
+* Transfer Learning
+* Computer Vision
+* Image Classification
+
+## 🛠️ Tools
+
+Python • TensorFlow • Keras • NumPy • Matplotlib • Google Colab
+
+---
+
+**Author:** Darshan Shete
